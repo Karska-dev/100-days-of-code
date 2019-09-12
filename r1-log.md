@@ -9,4 +9,6 @@ Continue Intermediate Algorithm Scripting from https://www.freecodecamp.org/
 current problem: Drop it - done!
 next: Steamroller - done! (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller)
 
+5 issues reported for my coupon project https://github.com/Karskaya/coupons
+
 ### R1D2
