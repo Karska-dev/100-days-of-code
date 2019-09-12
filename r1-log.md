@@ -12,3 +12,7 @@ next: Steamroller - done! (https://learn.freecodecamp.org/javascript-algorithms-
 5 issues reported for my coupon project https://github.com/Karskaya/coupons
 
 ### R1D2
+Continue Intermediate Algorithm Scripting from https://www.freecodecamp.org/ 
+Today's problems: 
+    -  Binary Agents (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents) - done!
+    - Everything Be True (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true) - done!
