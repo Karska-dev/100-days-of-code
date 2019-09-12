@@ -1,3 +1,6 @@
+
+# I use r1-log.md instead
+
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
