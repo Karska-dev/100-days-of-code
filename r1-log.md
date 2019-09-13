@@ -21,3 +21,12 @@ Today's problems:
  Fixed two issues: 
  	- https://github.com/Karskaya/coupons/issues/2
  	- https://github.com/Karskaya/coupons/issues/1
+
+ ### R1D3
+ Leetcode:
+
+ Two sum problem. Advansed solution review. https://leetcode.com/problems/two-sum/
+
+ Two Sum II - Input array is sorted
+ https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+ Wrote my solution and reveiw advansed
