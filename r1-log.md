@@ -35,4 +35,7 @@ Today's problems:
  Coupon project https://github.com/Karskaya/coupons
  Fixed issues:
  https://github.com/Karskaya/coupons/issues/5
- 
+
+ Continue Intermediate Algorithm Scripting from https://www.freecodecamp.org/ 
+current problem:
+	- https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional - done!
