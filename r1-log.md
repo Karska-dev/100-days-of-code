@@ -30,3 +30,9 @@ Today's problems:
  Two Sum II - Input array is sorted
  https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
  Wrote my solution and reveiw advansed
+
+ ### R1D4
+ Coupon project https://github.com/Karskaya/coupons
+ Fixed issues:
+ https://github.com/Karskaya/coupons/issues/5
+ 
