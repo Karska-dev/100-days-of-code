@@ -25,17 +25,30 @@ Today's problems:
  ### R1D3
  Leetcode:
 
- Two sum problem. Advansed solution review. https://leetcode.com/problems/two-sum/
+ 	- Two sum problem. Advansed solution review. https://leetcode.com/problems/two-sum/
 
- Two Sum II - Input array is sorted
+ 	- Two Sum II - Input array is sorted
  https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
  Wrote my solution and reveiw advansed
 
  ### R1D4
  Coupon project https://github.com/Karskaya/coupons
  Fixed issues:
- https://github.com/Karskaya/coupons/issues/5
+ 	https://github.com/Karskaya/coupons/issues/5
 
  Continue Intermediate Algorithm Scripting from https://www.freecodecamp.org/ 
 current problem:
 	- https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional - done!
+
+### R1D5
+Continue Intermediate Algorithm Scripting from https://www.freecodecamp.org/ 
+current problem:
+	- https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person - done!
+
+### R1D6
+Finished Intermediate Algorithm Scripting from https://www.freecodecamp.org/ 
+last problem:
+	- https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris
+
+Leetcode:
+ 	- My awkward solution to https://leetcode.com/problems/reverse-integer/
