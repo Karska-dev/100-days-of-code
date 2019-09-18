@@ -52,3 +52,9 @@ last problem:
 
 Leetcode:
  	- My awkward solution to https://leetcode.com/problems/reverse-integer/
+
+### R1D7
+JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
+Current problem: 
+	- Palindrome Checker
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker - done!
