@@ -58,3 +58,8 @@ JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp
 Current problem: 
 	- Palindrome Checker
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker - done!
+
+### R1D8
+JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
+Current problem:
+	- Roman Numeral Converter https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter - done! (more than one hour)
