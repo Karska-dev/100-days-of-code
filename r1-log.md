@@ -72,3 +72,4 @@ Current problem:
 ### R1D10
 JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
 Current problem:
+	- Telephone Number Validator https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator - done!
