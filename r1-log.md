@@ -63,3 +63,12 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascr
 JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
 Current problem:
 	- Roman Numeral Converter https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter - done! (more than one hour)
+
+### R1D9
+JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
+Current problem:
+	- Caesars Cipher https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher - done! 
+
+### R1D10
+JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
+Current problem:
