@@ -73,3 +73,9 @@ Current problem:
 JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
 Current problem:
 	- Telephone Number Validator https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator - done!
+
+### R1D11
+While offline only SoloLearn from mobile
+
+### R1D12
+Started last JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
