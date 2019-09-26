@@ -79,3 +79,7 @@ While offline only SoloLearn from mobile
 
 ### R1D12
 Started last JavaScript Algorithms and Data Structures Projects from https://www.freecodecamp.org/
+
+### R1D13
+Erased and write again last project from https://www.freecodecamp.org/
+JavaScript Algorithms and Data Structures Projects: Cash Register. Still in progress!
