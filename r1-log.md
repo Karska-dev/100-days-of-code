@@ -97,4 +97,4 @@ Leetcode:
 Visual Studio Code:
 	Made some templates/snippets for debugging my leetcode problems in VSC
 Leetcode:
-	Started https://leetcode.com/problems/longest-common-prefix/
+	Started https://leetcode.com/problems/longest-common-prefix/ - Runtime: 52 ms, faster than 92.59% of JavaScript online submissions for Longest Common Prefix.
