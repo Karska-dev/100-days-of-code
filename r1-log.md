@@ -82,4 +82,19 @@ Started last JavaScript Algorithms and Data Structures Projects from https://www
 
 ### R1D13
 Erased and write again last project from https://www.freecodecamp.org/
-JavaScript Algorithms and Data Structures Projects: Cash Register. Still in progress!
+JavaScript Algorithms and Data Structures Projects: Cash Register. Done!
+Receive certification!
+
+### R1D14
+Leetcode:
+	- Palindrome Number https://leetcode.com/problems/palindrome-number/submissions/ - two variants: convert to string and only math
+
+### R1D15
+Leetcode:
+	- Roman to Integer https://leetcode.com/problems/roman-to-integer/ - my variant is ok - Your runtime beats 91.13 % of javascript submissions.
+
+### R1D16
+Visual Studio Code:
+	Made some templates/snippets for debugging my leetcode problems in VSC
+Leetcode:
+	Started https://leetcode.com/problems/longest-common-prefix/
