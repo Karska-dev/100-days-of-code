@@ -98,3 +98,13 @@ Visual Studio Code:
 	Made some templates/snippets for debugging my leetcode problems in VSC
 Leetcode:
 	Started https://leetcode.com/problems/longest-common-prefix/ - Runtime: 52 ms, faster than 92.59% of JavaScript online submissions for Longest Common Prefix.
+
+### R1D17
+Leetcode:
+	Started Valid Parentheses https://leetcode.com/problems/valid-parentheses/
+	Failed on test Input: {}{}()[]
+
+### R1D18
+Leetcode:
+	Continue Valid Parentheses https://leetcode.com/problems/valid-parentheses/
+
