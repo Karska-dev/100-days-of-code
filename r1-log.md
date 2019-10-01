@@ -106,5 +106,5 @@ Leetcode:
 
 ### R1D18
 Leetcode:
-	Continue Valid Parentheses https://leetcode.com/problems/valid-parentheses/
+	Continue Valid Parentheses https://leetcode.com/problems/valid-parentheses/ - no luck!
 
