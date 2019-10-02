@@ -108,3 +108,6 @@ Leetcode:
 Leetcode:
 	Continue Valid Parentheses https://leetcode.com/problems/valid-parentheses/ - no luck!
 
+
+### R1D19
+Switched to OpenSource for a while. Reason: Outreachy internship applying and Hacktoberfest(i want that t-shirt!). Spend several hours for choosing a project. Noluck^ but have 12 candidates
