@@ -111,3 +111,13 @@ Leetcode:
 
 ### R1D19
 Switched to OpenSource for a while. Reason: Outreachy internship applying and Hacktoberfest(i want that t-shirt!). Spend several hours for choosing a project. Noluck^ but have 12 candidates
+
+### R1D20
+Ok. Lets' strart contribution period with Mozilla. And PublicLab.
+
+### R1D21
+ I'm lost in days. Dive in Mozilla pontoon project, lost in it. Need to try to solve one issue. To be continue.
+
+ ### R1D22
+ Continue with Mozilla-Pontoon. Add some leetcode to have a rest.
+ 
