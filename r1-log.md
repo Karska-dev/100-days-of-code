@@ -118,6 +118,13 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D21
  I'm lost in days. Dive in Mozilla pontoon project, lost in it. Need to try to solve one issue. To be continue.
 
- ### R1D22
- Continue with Mozilla-Pontoon. Add some leetcode to have a rest.
- 
+ Add some leetcode to have a rest.
+
+### R1D22
+ Outreachy project:
+ 	- Invastigate Pontoon architecture
+
+### R1D23
+ Outreachy project:
+ 	- Exploring other Mozilla projects
+ 	
