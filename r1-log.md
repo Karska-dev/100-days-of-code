@@ -127,4 +127,7 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D23
  Outreachy project:
  	- Exploring other Mozilla projects
- 	
+
+### R1D24
+	Project #1 - continue with the bug
+	Project #2 - complited installation, waiting for regestraition on the bugtracker
