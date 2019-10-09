@@ -131,3 +131,8 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D24
 	Project #1 - continue with the bug
 	Project #2 - complited installation, waiting for regestraition on the bugtracker
+
+### R1D25
+	Outreachy projects:
+	- #1 Ticket with teams
+	- #2 installation issue(commited by mistake)
