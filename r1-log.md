@@ -136,3 +136,9 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	Outreachy projects:
 	- #1 Ticket with teams
 	- #2 installation issue(commited by mistake)
+
+### R1D26
+	My first pull requests done!
+	Two of them!
+	Recieved change requests on both of them.
+	Working on it!
