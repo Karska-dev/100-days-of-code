@@ -142,3 +142,16 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	Two of them!
 	Recieved change requests on both of them.
 	Working on it!
+
+### R1D27
+	Outreachy projects:
+	- #1 Made first change, worked on second change
+	- #2 Made some changes to pull request
+
+
+### R1D28
+	Outreachy projects:
+	- #1 Made first two changes, third is left to do
+	- #2 My pull request is merged finally!!!
+
+
