@@ -154,4 +154,7 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	- #1 Made first two changes, third is left to do
 	- #2 My pull request is merged finally!!!
 
-
+### R1D38
+	Updating PR for Bug #1583821, still...
+	Looking for a new bug to fix. 
+	Problems with running project after Docker clean up
