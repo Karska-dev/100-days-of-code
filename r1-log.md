@@ -158,3 +158,13 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	Updating PR for Bug #1583821, still...
 	Looking for a new bug to fix. 
 	Problems with running project after Docker clean up
+
+### R1D39
+	Updating PR for Bug #1583821, again...
+	Finished my first pontoon PR in 18commits!
+	Asked for a new issue, investigating
+
+### R1D40
+	Trying to reproduce new issue. No luck.
+	Made an contributions description
+	Issue reproduced, code need to be changed - found! yay!
