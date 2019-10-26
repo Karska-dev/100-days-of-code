@@ -148,11 +148,12 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	- #1 Made first change, worked on second change
 	- #2 Made some changes to pull request
 
-
 ### R1D28
 	Outreachy projects:
 	- #1 Made first two changes, third is left to do
 	- #2 My pull request is merged finally!!!
+
+	10 days update will be added soon
 
 ### R1D38
 	Updating PR for Bug #1583821, still...
@@ -168,3 +169,9 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	Trying to reproduce new issue. No luck.
 	Made an contributions description
 	Issue reproduced, code need to be changed - found! yay!
+
+### R1D41
+	Stack with an issue. Asking for help
+
+### R1D42
+	Started to work with more info about issue
