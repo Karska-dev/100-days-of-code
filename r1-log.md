@@ -175,3 +175,12 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 
 ### R1D42
 	Started to work with more info about issue
+
+### R1D43
+	Investigate an issue, write fix for it
+
+### R1D44
+	Three projects applications rewritten
+	All made before PR described
+	PR request todo
+	One more issue to investigate and solve if possible
