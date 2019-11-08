@@ -153,7 +153,32 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	- #1 Made first two changes, third is left to do
 	- #2 My pull request is merged finally!!!
 
-	10 days update will be added soon
+### R1D29
+	Outreachy contribution period
+
+### R1D30
+	Outreachy contribution period
+
+### R1D31
+	Outreachy contribution period
+
+### R1D32
+	Outreachy contribution period
+
+### R1D33
+	Outreachy contribution period
+
+### R1D34
+	Outreachy contribution period
+
+### R1D35
+	Outreachy contribution period
+
+### R1D36
+	Outreachy contribution period
+
+### R1D37
+	Outreachy contribution period
 
 ### R1D38
 	Updating PR for Bug #1583821, still...
@@ -184,3 +209,34 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	All made before PR described
 	PR request todo
 	One more issue to investigate and solve if possible
+
+### R1D45
+	Outreachy contribution period
+
+### R1D46
+	Outreachy contribution period
+
+### R1D47
+	Outreachy contribution period
+
+### R1D48
+	Outreachy contribution period
+
+---Nov2 skipped
+
+### R1D49
+	Two last PR for Outreachy contribution period, two different projects
+
+### R1D50
+	Finishing my applications. And contributions descriptions
+	
+---Nov5 skipped
+
+### R1D51
+	FreeCodeCamp observing, Reading articles, 
+	Observing projects and bug lists.
+	Re-read observe investigate two new issues for two different foss projects
+
+### R1D52
+	Material-ui treeview fork-clone-dependencies installing
+	Reading about, observing the code.
