@@ -240,3 +240,9 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D52
 	Material-ui treeview fork-clone-dependencies installing
 	Reading about, observing the code.
+
+### R1D53
+	Setting up is fixed, finally started bugfixing.
+
+### R1D54
+	Sololearn, freeCodeCamp, React video course
