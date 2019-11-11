@@ -246,3 +246,9 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 
 ### R1D54
 	Sololearn, freeCodeCamp, React video course
+
+### R1D55
+	Half of freeCodeCamp Bootstrap
+	FOSS: bugfixing - one PR made
+	second PR made
+	Developer env setup - no luck but took a lot of time
