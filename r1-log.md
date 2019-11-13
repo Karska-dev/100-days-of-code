@@ -252,3 +252,16 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	FOSS: bugfixing - one PR made
 	second PR made
 	Developer env setup - no luck but took a lot of time
+
+### R1D56
+	Sololearn, FreeCodeCamp - bootstrap
+	Recieved one PR approve
+
+### R1D57	
+	FreeCodeCamp - bootstrap
+	My project - Hello coupons - Moved to bootstrap
+	Listen to a Python session from WWC
+
+### R1D58
+	LeetCode, refreshing algoithms, 
+	Reset code for Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
