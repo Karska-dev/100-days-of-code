@@ -265,3 +265,15 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D58
 	LeetCode, refreshing algoithms, 
 	Reset code for Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
+
+### R1D59
+	Valid Parentheses - https://leetcode.com/problems/valid-parentheses/ - Solved
+	Rebase for PR for Mozilla project
+
+### R1D60
+	Valid Parentheses - searching for better solution, other solutions
+	Type Script zoom session from WWCode
+
+### R1D61
+	Case insensitivity PR for taskcluster - make new branch and revrite fully that solution
+	
