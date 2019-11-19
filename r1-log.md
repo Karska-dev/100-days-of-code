@@ -275,5 +275,15 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	Type Script zoom session from WWCode
 
 ### R1D61
-	Case insensitivity PR for taskcluster - make new branch and revrite fully that solution
-	
+	Case insensitivity PR for taskcluster - make new branch and rewrite fully that solution
+	Start to work with new pontoon issue.
+
+### R1D62
+	SoloLearn, python and react videos
+	Overriding methods reading
+
+### R1D63
+	Pontoon issue: override two methods, 
+	testing, 
+	new PR
+
