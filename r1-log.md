@@ -287,3 +287,16 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	testing, 
 	new PR
 
+### R1D64
+	leetcode - Valid Parentheses - another solution: runtime 54ms
+
+### R1D65
+	Stuck with this for today - https://leetcode.com/problems/merge-two-sorted-lists/
+	SOlved
+
+### R1D66
+	FreeCodeCamp
+
+### R1D67
+	FreeCodeCamp - finished bootstrap, start jquery
+
