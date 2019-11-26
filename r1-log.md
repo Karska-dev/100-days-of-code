@@ -300,3 +300,13 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D67
 	FreeCodeCamp - finished bootstrap, start jquery
 
+### R1D68
+	LeetCode - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+	Remove Element
+	Implement strStr()
+	FreeCodeCamp - continue with jQuery
+
+### R1D69
+	Roadmap refresh
+	FreeCodeCamp - continue with jQuery
+
