@@ -308,5 +308,18 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 
 ### R1D69
 	Roadmap refresh
-	FreeCodeCamp - continue with jQuery
+	FreeCodeCamp - finished with jQuery
 
+### R1D70
+	FreeCodeCamp - started with SASS
+
+### R1D71
+	SoloLearn
+	FreeCodeCamp - SASS
+
+### R1D72
+	SoloLearn
+	FreeCodeCamp - SASS
+
+### R1D73
+	FreeCodeCamp - finished SASS
