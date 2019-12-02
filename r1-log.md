@@ -320,6 +320,7 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D72
 	SoloLearn
 	FreeCodeCamp - SASS
-
+	moved myCoupons to bootstrap and merged to master
 ### R1D73
 	FreeCodeCamp - finished SASS
+	Started React on FreeCodeCamp
