@@ -321,6 +321,15 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	SoloLearn
 	FreeCodeCamp - SASS
 	moved myCoupons to bootstrap and merged to master
+
 ### R1D73
 	FreeCodeCamp - finished SASS
 	Started React on FreeCodeCamp
+
+### R1D74
+	SoloLearn
+	MyProject: finished moving to Bootstrap, report several bugs, add feature enhansment tickets, add milestones to the project.
+
+### R1D75
+	Continue working with Pontoon. Adding word count enhansement.
+	
