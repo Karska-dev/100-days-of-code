@@ -332,4 +332,28 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 
 ### R1D75
 	Continue working with Pontoon. Adding word count enhansement.
+	SoloLearn
+
+	December 4th - dayoff
+
+### R1D76
+	WWCode Connect 2019 Conference
+	SoloLearn
+
+### R1D77
+	Leetcode
+	Python advent
+	SoloLearn
+
+### R1D78
+	AdventOfCode - javascript
+	WordCount in python for Pontoon
+
+### R1D79
+	Python Advent
+	AdventOfCode - javascript
+
+### R1D80
+	AdventOfCode
+	Pontoon
 	
