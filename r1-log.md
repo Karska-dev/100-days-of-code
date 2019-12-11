@@ -356,4 +356,8 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D80
 	AdventOfCode
 	Pontoon
+
+### R1D81
+	OpenSource
+	PythonAdvent
 	
