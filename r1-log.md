@@ -360,4 +360,9 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D81
 	OpenSource
 	PythonAdvent
+
+### R1D82
+	AdventOfCode
+	OpenSource
+		
 	
