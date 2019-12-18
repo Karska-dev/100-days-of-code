@@ -363,6 +363,30 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 
 ### R1D82
 	AdventOfCode
-	OpenSource
-		
+	OpenSource - pontoon
+
+### R1D83 12
+	SoloLearn
+	Videos
+	Blogs
+	RoadMap update
+
+### R1D84 13
+	Python Advent day 12 and 13
+	AdventOfCode - javascript - day #5
+
+14 Dec day off
+
+### R1D85 15
+	Python Advent - day 14 and 15
+	AdventOfCode - javascript - started day#6
+
+### R1D86 16
+	Python Advent - day 16
+	AdventOfCode - javascript - binary tree
+
+### R1D87 17
+	AdventOfCode - javascript - done day #6 with tree
+	YAY!
+	Python Advent - day 17, 18
 	
