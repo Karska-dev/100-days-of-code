@@ -389,4 +389,11 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	AdventOfCode - javascript - done day #6 with tree
 	YAY!
 	Python Advent - day 17, 18
+
+### R1D88 19
+	Python Advent - day 19, 20
+
+### R1D89 20
+	OpenSource - pontoon  
+
 	
