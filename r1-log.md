@@ -396,4 +396,20 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 ### R1D89 20
 	OpenSource - pontoon  
 
+### R1D90 21 
+	Python playground
+	FreeCodeCamp
+
+### R1D91 22
+	OpenSource - pontoon 
+	Python
+	FreeCodeCamp
+
+### R1D92 23
+	Python advent day 21,22,23,24
+
+### R1D93 24
+	React learning
+	Creating react project
+
 	
