@@ -412,4 +412,21 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	React learning
 	Creating react project
 
+### R1D94 25
+	Sololearn
+	FreeCodeCamp React
+
+### R1D95 26
+	Video Tutorial - JS animation
+
+### R1D96 27
+	FreeCodeCamp React 17%
+
+### R1D97 28
+	Video Tutorial - RoadMap2020, Frameworks etc.
+
+### R1D98 29
+	What To Learn Before A JavaScript Framework
+	My React Project 'Rite Coupons' - 70% of UI done
+
 	
