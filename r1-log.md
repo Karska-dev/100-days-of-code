@@ -429,4 +429,8 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	What To Learn Before A JavaScript Framework
 	My React Project 'Rite Coupons' - 70% of UI done
 
+### R1D99
+	React crash course
+	My React Project 'Rite Coupons' - adding logic and data
+
 	
