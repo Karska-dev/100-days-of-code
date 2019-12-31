@@ -433,4 +433,10 @@ Ok. Lets' strart contribution period with Mozilla. And PublicLab.
 	React crash course
 	My React Project 'Rite Coupons' - adding logic and data
 
+### R1D100
+	A bit of FreeCodeCamp React
+	Done rebase for my fork of pontoon project
+	Started to fix changes requests
+	YAY! Happy New Year!
+
 	
