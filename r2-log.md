@@ -57,3 +57,10 @@
 
 **Link(s) to work**: [Leet code problem: Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
+### Day 7: April 22, 2020
+
+**Today's Progress**: two Python3 solutions for Subtract the Product and Sum of Digits of an Integer
+
+**Thoughts**: Need to learn lambda in Python
+
+**Link(s) to work**: [Leet code problem: Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
