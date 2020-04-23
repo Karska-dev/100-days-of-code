@@ -32,3 +32,28 @@
 **Thoughts**: Add SQL to my learning plan
 
 **Link(s) to work**: [Leet code problem: Write a SQL solution to output big countries' name, population and area.](https://leetcode.com/problems/big-countries/)
+
+### Day 4: April 19, 2020
+
+**Today's Progress**:  Python and JS solutions. Iterative and recursive
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+
+### Day 5: April 20, 2020
+
+**Today's Progress**: JS straight forward solution for Subtract the Product and Sum of Digits of an Integer 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
+### Day 6: April 21, 2020
+
+**Today's Progress**: JS functional solution for Subtract the Product and Sum of Digits of an Integer 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
