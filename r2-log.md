@@ -64,3 +64,11 @@
 **Thoughts**: Need to learn lambda in Python
 
 **Link(s) to work**: [Leet code problem: Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
+### Day 8: April 23, 2020
+
+**Today's Progress**: Python and JS solutions for this problem
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
