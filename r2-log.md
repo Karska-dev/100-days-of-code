@@ -72,3 +72,27 @@
 **Thoughts**: 
 
 **Link(s) to work**: [Leet code problem: Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
+
+### Day 9: April 24, 2020
+
+**Today's Progress**: Binary tree.
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Decompress Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+### Day 10: April 25, 2020
+
+**Today's Progress**: Women Of React Conference!
+
+**Thoughts**: 
+
+**Link(s) to work**: [Women Of React 2020](https://womenofreact.com/)
+
+### Day 11: April 27, 2020
+
+**Today's Progress**: Continue to remember binary tree.
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Decompress Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
