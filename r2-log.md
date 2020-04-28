@@ -79,7 +79,7 @@
 
 **Thoughts**: 
 
-**Link(s) to work**: [Leet code problem: Decompress Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+**Link(s) to work**: [Leet code problem: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 
 ### Day 10: April 25, 2020
 
@@ -91,8 +91,8 @@
 
 ### Day 11: April 27, 2020
 
-**Today's Progress**: Continue to remember binary tree.
+**Today's Progress**: JS solution for Range Sum of binary search tree.
 
 **Thoughts**: 
 
-**Link(s) to work**: [Leet code problem: Decompress Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+**Link(s) to work**: [Leet code problem: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
