@@ -96,3 +96,11 @@
 **Thoughts**: 
 
 **Link(s) to work**: [Leet code problem: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+### Day 12: April 28, 2020
+
+**Today's Progress**: Python solution for Range Sum of binary search tree.
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
