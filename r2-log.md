@@ -104,3 +104,35 @@
 **Thoughts**: 
 
 **Link(s) to work**: [Leet code problem: Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+### Day 13: April 29, 2020
+
+**Today's Progress**: Python and JS one line solutions.
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+
+### Day 14: April 30, 2020
+
+**Today's Progress**: Python and JS solutions for Hamming Distance problem. classic and one-liners.
+
+**Thoughts**: 
+
+**Link(s) to work**: [Leet code problem: Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+
+### Day 15: May 1, 2020
+
+**Today's Progress**: Attempt to solve leetcode challenge problem: First Bad Version
+
+**Thoughts**: 
+
+**Link(s) to work**: [First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)
+
+### Day 16: May 2, 2020
+
+**Today's Progress**: Done my next easy problem with JS and Python3 (804. Unique Morse Code Words) and resubmit my old solution for Jewels and Stones. Additionally started with Jad Jourban’s React course
+
+**Thoughts**: 
+
+**Link(s) to work**: [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
