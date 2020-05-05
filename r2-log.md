@@ -136,3 +136,20 @@
 **Thoughts**: 
 
 **Link(s) to work**: [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+
+### Day 17: May 3, 2020
+
+**Today's Progress**: Ransome Note for May Cahllenge and MySQL query from the list of easy problems. 
+
+**Thoughts**: Need to remember this: CHAR(ASCII('f') ^ ASCII('m') ^ ASCII(sex))
+and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
+
+**Link(s) to work**: [627. Swap Salary](https://leetcode.com/problems/swap-salary/)
+
+### Day 18: May 4, 2020
+
+**Today's Progress**: Only May challenge problem, and not an ideal way but acceptable.
+
+**Thoughts**: May the 4th be with you! 
+
+**Link(s) to work**: [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)
