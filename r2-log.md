@@ -153,3 +153,19 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**: May the 4th be with you! 
 
 **Link(s) to work**: [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)
+
+### Day 19: May 5, 2020
+
+**Today's Progress**: Merge Trees problem solved with JS, May challenge at leetcode - First Unique problem
+
+**Thoughts**:  need to work more with trees
+
+**Link(s) to work**: [Merge Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+
+### Day 20: May 6, 2020
+
+**Today's Progress**: React interactive tutorial. Leetcoding challenge - Majority Element
+
+**Thoughts**:  Do I need to buy this React course?!
+
+**Link(s) to work**: [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)
