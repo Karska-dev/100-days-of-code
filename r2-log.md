@@ -169,3 +169,43 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  Do I need to buy this React course?!
 
 **Link(s) to work**: [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)
+
+### Day 21: May 7, 2020
+
+**Today's Progress**: React interactive tutorial. Leetcoding challenge - Cousins in Binary Tree
+
+**Thoughts**:  
+
+**Link(s) to work**: [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)
+
+### Day 22: May 8, 2020
+
+**Today's Progress**: React interactive tutorial. Leetcoding challenge - Check If It Is a Straight Line
+
+**Thoughts**:  
+
+**Link(s) to work**: [Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)
+
+### Day 23: May 9, 2020
+
+**Today's Progress**: React interactive tutorial free part is finished. Leetcoding challenge - Valid Perfect Square
+
+**Thoughts**:  Do I really want to pay for it?! I mean React tutorial
+
+**Link(s) to work**: [Valid Perfect Square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)
+
+### Day 24: May 10, 2020
+
+**Today's Progress**: Leetcoding challenge - Find the Town Judge
+
+**Thoughts**:  
+
+**Link(s) to work**: [Find the Town Judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)
+
+### Day 25: May 11, 2020
+
+**Today's Progress**: Leetcoding challenge - 
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
