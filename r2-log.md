@@ -209,3 +209,11 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  
 
 **Link(s) to work**: [Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)
+
+### Day 26: May 12, 2020
+
+**Today's Progress**: Leetcoding challenge - Single Element in a Sorted Array, Hacker Rank some Python
+
+**Thoughts**:  
+
+**Link(s) to work**: [Single Element in a Sorted Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)
