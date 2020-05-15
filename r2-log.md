@@ -217,3 +217,19 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  
 
 **Link(s) to work**: [Single Element in a Sorted Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)
+
+### Day 27: May 13, 2020
+
+**Today's Progress**: Leetcoding challenge - Remove K Digits
+
+**Thoughts**:  
+
+**Link(s) to work**: [Remove K Digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)
+
+### Day 28: May 14, 2020
+
+**Today's Progress**: Leetcoding challenge - Implement Trie (Prefix Tree)
+
+**Thoughts**:  
+
+**Link(s) to work**: [Implement Trie (Prefix Tree)](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)
