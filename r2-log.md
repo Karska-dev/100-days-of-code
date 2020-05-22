@@ -233,3 +233,54 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  
 
 **Link(s) to work**: [Implement Trie (Prefix Tree)](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)
+
+### Day 29: May 15, 2020
+
+**Today's Progress**: Failed attempt with leetcode challenge
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
+
+### Day 30: May 16, 2020
+
+**Today's Progress**: Switched to HackerRank and 10days of JS
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
+
+### Day 31: May 17, 2020
+
+**Today's Progress**: HackerRank and 10days of JS
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
+
+### Day off: May 18, 2020
+**First in this round**
+
+### Day 32: May 19, 2020
+
+**Today's Progress**: Finished 10days of JS on HackerRank
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
+
+### Day 33: May 20, 2020
+
+**Today's Progress**: Pac-man game with Ania Kubów on YouTube
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
+
+### Day 34: May 21, 2020
+
+**Today's Progress**: Finishing Pac-man game with Ania Kubów on YouTube
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
