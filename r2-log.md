@@ -284,3 +284,19 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  
 
 **Link(s) to work**: []()
+
+### Day 35: May 22, 2020
+
+**Today's Progress**: Easiest JavaScript game - Dino Jump, plus Memory Game by Ania Kubów
+
+**Thoughts**:  
+
+**Link(s) to work**: [YouTube tutorial](https://www.youtube.com/watch?v=bG2BmmYr9NQ)
+
+### Day 36: May 23, 2020
+
+**Today's Progress**: 
+
+**Thoughts**:  
+
+**Link(s) to work**: [YouTube tutorial]()
