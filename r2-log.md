@@ -295,8 +295,83 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 
 ### Day 36: May 23, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Adding pictures to Pac-man.
 
 **Thoughts**:  
 
-**Link(s) to work**: [YouTube tutorial]()
+**Link(s) to work**: [YouTube tutorial](https://www.youtube.com/watch?v=CeUGlSl2i4Q)
+
+
+### Day 37: May 24, 2020
+
+**Today's Progress**: Adding pictures to Dino Jump. Upload to GitHub
+
+**Thoughts**:  
+
+**Link(s) to work**: [YouTube tutorial](https://www.youtube.com/watch?v=CeUGlSl2i4Q)
+
+### May 25, 2020 Day-off
+
+### Day 38: May 26, 2020
+
+**Today's Progress**: UPGRADE Pac-man and Dino Jump. Upload to GitHub
+
+**Thoughts**:  
+
+**Link(s) to work**: [YouTube tutorial](https://www.youtube.com/watch?v=CeUGlSl2i4Q)
+
+### Day 39: May 27, 2020
+
+**Today's Progress**: Minesweeper JS game from youtube tutorial
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
+
+### Day 40: May 28, 2020
+
+**Today's Progress**: Minesweeper JS game from youtube tutorial finished
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
+
+### Day 41: May 29, 2020
+
+**Today's Progress**: Minesweeper JS game design and testing
+
+**Thoughts**:  
+
+**Link(s) to work**: []()
+
+### Day 42: May 30, 2020
+
+**Today's Progress**: GitHub upload, make bugs/issues, making branches for JS simple games. GitHib page for a minesweeper  
+
+**Thoughts**:  
+
+**Link(s) to work**: [GitHub page for minesweeper](https://karska-dev.github.io/minesweeper/)
+
+### Day 43: May 31, 2020
+
+**Today's Progress**: Attempt to solve some hackerRank python
+
+**Thoughts**:  I'm not in a great shape today, but I'm trying
+
+**Link(s) to work**: [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
+
+### Day 44: June 1, 2020
+
+**Today's Progress**: Attempt to solve some hackerRank python
+
+**Thoughts**:  I'm not in a great shape today, but I'm trying
+
+**Link(s) to work**: [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+
+### Day 45: June 2, 2020
+
+**Today's Progress**: Just reading and investigating bots topic
+
+**Thoughts**:  Trying not to push myself with coding problems, just investigate things for a future projects
+
+**Link(s) to work**: [chatbot framework](https://discover.bot/bot-talk/beginners-guide-bots/chatbot-frameworks/)
