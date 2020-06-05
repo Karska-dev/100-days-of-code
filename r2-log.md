@@ -375,3 +375,20 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  Trying not to push myself with coding problems, just investigate things for a future projects
 
 **Link(s) to work**: [chatbot framework](https://discover.bot/bot-talk/beginners-guide-bots/chatbot-frameworks/)
+
+### Day 46: June 3, 2020
+
+**Today's Progress**: Fixed bug #3 and #5 for my minesweeper. Started with frontendmentor tutorials.
+
+**Thoughts**:  
+
+**Link(s) to work**: [frontendmentor](https://www.frontendmentor.io/)
+[my minesweeper](https://github.com/Karska-dev/minesweeper)
+
+### Day 47: June 4, 2020
+
+**Today's Progress**: Continue with frontendmentor first tutorial.
+
+**Thoughts**:  
+
+**Link(s) to work**: [frontendmentor challenge one](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
