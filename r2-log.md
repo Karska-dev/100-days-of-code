@@ -377,20 +377,20 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Link(s) to work**: [chatbot framework](https://discover.bot/bot-talk/beginners-guide-bots/chatbot-frameworks/)
 
 ### Day 46: June 3, 2020
-
-**Today's Progress**: Started with [frontendmentor](frontendmentor.io) first challenge
+**Today's Progress**: Fixed bug #3 and #5 for my minesweeper. Started with [frontendmentor](frontendmentor.io) first tutorial
 
 **Thoughts**:  Made some first attempt variant. Not so good, but it works - only desktop version.
 
-**Link(s) to work**: [First-challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+**Link(s) to work**: [First-challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n),
+[my minesweeper](https://github.com/Karska-dev/minesweeper)
 
 ### Day 47: June 4, 2020
 
-**Today's Progress**: Continue with [frontendmentor](frontendmentor.io) first challenge. Redo a lot of code.
+**Today's Progress**: Continue with [frontendmentor](frontendmentor.io) first tutorial. Redo a lot of code.
 
 **Thoughts**:  Rewrote desktop version one more time.
 
-**Link(s) to work**: No links, everything is on my PC
+**Link(s) to work**: [frontendmentor challenge one](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
 ### Day 48: June 5, 2020
 
