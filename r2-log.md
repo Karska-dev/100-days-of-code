@@ -375,3 +375,55 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  Trying not to push myself with coding problems, just investigate things for a future projects
 
 **Link(s) to work**: [chatbot framework](https://discover.bot/bot-talk/beginners-guide-bots/chatbot-frameworks/)
+
+### Day 46: June 3, 2020
+
+**Today's Progress**: Started with [frontendmentor](frontendmentor.io) first challenge
+
+**Thoughts**:  Made some first attempt variant. Not so good, but it works - only desktop version.
+
+**Link(s) to work**: [First-challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+
+### Day 47: June 4, 2020
+
+**Today's Progress**: Continue with [frontendmentor](frontendmentor.io) first challenge. Redo a lot of code.
+
+**Thoughts**:  Rewrote desktop version one more time.
+
+**Link(s) to work**: No links, everything is on my PC
+
+### Day 48: June 5, 2020
+
+**Today's Progress**: Women Who Code Connect Digital conference! First day. Plus FlexboxFroggy game-tutorial! Plus made repository for frontendmentor project on GitHub, pushed there my desktop version.
+
+**Thoughts**:  
+
+**Link(s) to work**: 1. [Women Who Code Connect Digital - Day 1 CODE](https://connectdigital.womenwhocode.dev/day-1/)
+2. [FlexboxFroggy](https://flexboxfroggy.com/)
+3. [Frontendmentor GitHub repository](https://github.com/Karska-dev/frontendmentor-first)
+
+### Day 49 June 6, 2020
+
+**Today's Progress**: Continue with [frontendmentor](frontendmentor.io) first challenge. Started with mobile version.
+
+**Thoughts**:  
+
+**Link(s) to work**: [First-challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+
+### Day 50: June 7, 2020
+
+**Today's Progress**: Last changes and posted a solution to frontendmentor.io
+
+**Thoughts**:  Continue with [frontendmentor](frontendmentor.io) first challenge. Finished with mobile version. Pushed everything on GitHub and make a GitHub Page, submit solution on frontendmentor site.
+
+**Link(s) to work**: [My fronendmaster first project solution](https://www.frontendmentor.io/solutions/html-and-css-only-desktop-and-mobile-formats-9D_MIvrjz), [GitHub Page for the project](https://karska-dev.github.io/frontendmentor-first/), [Frontendmentor GitHub repository](https://github.com/Karska-dev/frontendmentor-first)
+
+### DayOff: June 8, 2020
+
+### Day 51: June 9, 2020
+
+**Today's Progress**: Fixing issues and make some improvements to frontendmentor first project
+
+**Thoughts**:  
+
+**Link(s) to work**: [My fronendmaster first project](https://www.frontendmentor.io/solutions/html-and-css-only-desktop-and-mobile-formats-9D_MIvrjz#feedback)
