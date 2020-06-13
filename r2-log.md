@@ -377,6 +377,7 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Link(s) to work**: [chatbot framework](https://discover.bot/bot-talk/beginners-guide-bots/chatbot-frameworks/)
 
 ### Day 46: June 3, 2020
+
 **Today's Progress**: Fixed bug #3 and #5 for my minesweeper. Started with [frontendmentor](frontendmentor.io) first tutorial
 
 **Thoughts**:  Made some first attempt variant. Not so good, but it works - only desktop version.
@@ -427,3 +428,27 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  
 
 **Link(s) to work**: [My fronendmaster first project](https://www.frontendmentor.io/solutions/html-and-css-only-desktop-and-mobile-formats-9D_MIvrjz#feedback)
+
+### Day 52: June 10, 2020
+
+**Today's Progress**: Started project two from frontendmentor
+
+**Thoughts**:  make a sceleton of desktop version
+
+**Link(s) to work**: [github repo](https://github.com/Karska-dev/frontendmentor-four-card/tree/my_solution)
+
+### Day 53: June 11, 2020
+
+**Today's Progress**: Continue with project two from frontendmentor
+
+**Thoughts**:  finished with desktop version
+
+**Link(s) to work**: [github repo](https://github.com/Karska-dev/frontendmentor-four-card/tree/my_solution)
+
+### Day 54: June 12, 2020
+
+**Today's Progress**: Women Who Code CONNECT digital, day 2. Sterted with mobile version for frontendmentor
+
+**Thoughts**:  
+
+**Link(s) to work**: [WWCode Connect digital, day two](https://app.hopin.to/events/wwcodeconnectday2/sessions)
