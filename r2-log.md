@@ -447,8 +447,114 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 
 ### Day 54: June 12, 2020
 
-**Today's Progress**: Women Who Code CONNECT digital, day 2. Sterted with mobile version for frontendmentor
+**Today's Progress**: Women Who Code CONNECT digital, day 2. Started with mobile version for frontendmentor
 
 **Thoughts**:  
 
 **Link(s) to work**: [WWCode Connect digital, day two](https://app.hopin.to/events/wwcodeconnectday2/sessions)
+
+### Day 55: June 13, 2020
+
+**Today's Progress**: Frontend Master second challendge, working with responsiveness and mobile view
+
+**Thoughts**:  
+
+**Link(s) to work**: [frontendmentor-four-card](https://github.com/Karska-dev/frontendmentor-four-card/tree/my_solution)
+
+### Day 56: June 14, 2020
+
+**Today's Progress**: Frontend Master second challendge, working with responsiveness and mobile view
+
+**Thoughts**:  
+
+**Link(s) to work**: [frontendmentor-four-card](https://github.com/Karska-dev/frontendmentor-four-card/tree/my_solution)
+
+### Day 57: June 15, 2020
+
+**Today's Progress**: Frontend Master second challendge, working with responsiveness and mobile view
+
+**Thoughts**:  
+
+**Link(s) to work**: [frontendmentor-four-card](https://github.com/Karska-dev/frontendmentor-four-card/tree/my_solution)
+
+### Day 58: June 16, 2020
+
+**Today's Progress**: Frontend Master second challendge, working with responsiveness and mobile view. Last modification and push to github
+
+**Thoughts**:  
+
+**Link(s) to work**: [frontendmentor-four-card](https://github.com/Karska-dev/frontendmentor-four-card/tree/my_solution)
+
+### Day 59: June 17, 2020
+
+**Today's Progress**: Frontend Master second challendge - desktop version unexpactedly broken. Trying to fix everything
+
+**Thoughts**:  disappointed: the more media tags I add the more upset I become.
+
+**Link(s) to work**: [frontendmentor-four-card](https://github.com/Karska-dev/frontendmentor-four-card/tree/my_solution)
+
+### Day Off: June 18, 2020
+
+### Day 60: June 19, 2020
+
+**Today's Progress**: WomenWhoCode Connect Digital, Day 3. Observe profiles, trying to make new contacts
+
+**Thoughts**:  a lot of interesting talks, especially I liked: Can Technology Be Biased? 
+
+**Link(s) to work**: [WWCode CONNECT Digital - Day Three [Change the World]](https://hopin.to/events/wwcodeconnectday3)
+
+### Day 61: June 20, 2020
+
+**Today's Progress**: Frontend Master challendge, trying to fix responsiveness.
+
+**Thoughts**:  I feel a lack of knowledge and the level in what I can fix it is not high enough on my mind. I'm trying to review how other people do it. I feel I need to redo it completely.
+
+**Link(s) to work**: [frontendmentor-four-card](https://github.com/Karska-dev/frontendmentor-four-card/tree/my_solution)
+
+### Day 62: June 21, 2020
+
+**Today's Progress**: Reviewing FrontEnd roadmaps, checklists and tutorials
+
+**Thoughts**:  I guess it's kind of plato or crisis in my learning process. I'm looking through different roadmaps and check-lists. All of them are great, but I can't choose one for me. From time to time the idea of getting mentor comes to my mind. Will see, keeping coding!
+
+**Link(s) to work**: [Step by step guide to becoming a modern frontend developer](https://roadmap.sh/frontend)
+
+### Day 63: June 22, 2020
+
+**Today's Progress**: Watching Introduction To Responsive Web Design - HTML & CSS Tutorial
+
+**Thoughts**:  It's so hard to watch about things I already know to find things I forgot or didn't know about.
+
+**Link(s) to work**: [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+
+### Day 64: June 23, 2020
+
+**Today's Progress**: A fun game-like tutorial to refresh my flexgrid knowledges
+
+**Thoughts**:  Love it!!!
+
+**Link(s) to work**: [Grid Garden](https://cssgridgarden.com/)
+
+### Day 65: June 24, 2020
+
+**Today's Progress**: Made my plan with goals
+
+**Thoughts**:  Very helpful [OKRs for Self Learning](https://github.com/sophi-li/OKRs-self-learning)
+
+**Link(s) to work**: [Oleksandra's personal OKRs](https://docs.google.com/spreadsheets/d/13dzBczgXzCIo29YGEZibqmC96MYRvEQz-acHy3y_Cj4/edit#gid=1553348179)
+
+### Day 66: June 25, 2020
+
+**Today's Progress**: YouTube webinar about mentors/mentees and career pathes
+
+**Thoughts**:  just stick to my plan and carry on, I'm doing everything right
+
+**Link(s) to work**: no links
+
+### Day 67: June 26, 2020
+
+**Today's Progress**: Continue watching Introduction To Responsive Web Design - HTML & CSS Tutorial
+
+**Thoughts**:  Need to rewrite all web-pages that I have
+
+**Link(s) to work**: [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
