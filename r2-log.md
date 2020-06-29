@@ -558,3 +558,27 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Thoughts**:  Need to rewrite all web-pages that I have
 
 **Link(s) to work**: [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+
+### Day 68: June 27, 2020
+
+**Today's Progress**: Continue watching Introduction To Responsive Web Design, installing and getting familiar with Responsively App
+
+**Thoughts**:  
+
+**Link(s) to work**: [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s), [Responsively App](https://responsively.app/)
+
+### Day 69: June 28, 2020
+
+**Today's Progress**: Finished my second frontendmentor project, installing and getting familiar with Responsively App
+
+**Thoughts**:  Responsively App is super useful! 
+
+**Link(s) to work**: [GitHub page for Four Card Project](https://karska-dev.github.io/frontendmentor-four-card/), [Responsively App](https://responsively.app/)
+
+### Day 70: June 29, 2020
+
+**Today's Progress**: 
+
+**Thoughts**:   
+
+**Link(s) to work**: []()
