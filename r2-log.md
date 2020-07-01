@@ -577,8 +577,18 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 
 ### Day 70: June 29, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Started interactive tutorial - CSS diner
 
 **Thoughts**:   
 
-**Link(s) to work**: []()
+**Link(s) to work**: [css diner](https://flukeout.github.io/)
+
+### Day 71: June 30, 2020
+
+**Today's Progress**: Finished css diner, Continue watching Introduction To Responsive Web Design
+
+**Thoughts**:   
+
+**Link(s) to work**: [css diner](https://flukeout.github.io/), [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+
+### Happy birthday to me!: July 1, 2020
