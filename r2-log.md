@@ -592,3 +592,45 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 **Link(s) to work**: [css diner](https://flukeout.github.io/), [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
 
 ### Happy birthday to me!: July 1, 2020
+
+### Day 72: July 2, 2020
+
+**Today's Progress**: Continue watching Introduction To Responsive Web Design
+
+**Thoughts**:   
+
+**Link(s) to work**: [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+
+### Day 73: July 3, 2020
+
+**Today's Progress**: SoloLearn App - review HTML fundamentals, do some JS challenges
+
+**Thoughts**:  SoloLearn is so useful during holidays, no PC needed
+
+**Link(s) to work**: 
+
+### Happy Independence Day: July 4, 2020
+
+### Day 74: July 5, 2020
+
+**Today's Progress**: SoloLearn App - review CSS fundamentals, do some JS challenges
+
+**Thoughts**:   
+
+**Link(s) to work**: []()
+
+### Day 75: July 6, 2020
+
+**Today's Progress**: Continue watching Introduction To Responsive Web Design
+
+**Thoughts**:   Want to finish it today!
+
+**Link(s) to work**: [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+
+### Day 76: July 7, 2020
+
+**Today's Progress**: 
+
+**Thoughts**:   
+
+**Link(s) to work**: []()
