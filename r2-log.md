@@ -621,16 +621,24 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 
 ### Day 75: July 6, 2020
 
-**Today's Progress**: Continue watching Introduction To Responsive Web Design
+**Today's Progress**: Finished watching Introduction To Responsive Web Design, Started CoderCoder tutorial for frontmentor.io challenge - Easybank landing page. Done with header.
 
-**Thoughts**:   Want to finish it today!
+**Thoughts**:   Want to finish it today! I didn't know it will be using sass, but ok.
 
-**Link(s) to work**: [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+**Link(s) to work**: [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s), [Build a responsive website from scratch with HTML & CSS | Part 1: Navigation bar](https://www.youtube.com/watch?v=8w_kHIAkucA)
 
 ### Day 76: July 7, 2020
 
+**Today's Progress**: Newbie challenge from frontmentor.io(article preview) to use and remember some things from Introduction To Responsive Web Design - HTML & CSS Tutorial
+
+**Thoughts**:  I make a pause in previous intermediate challenge/tutorial to fix my knowledge from previous tutorial.
+
+**Link(s) to work**: [Article preview challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT), [My repo for article preview challenge](https://github.com/Karska-dev/frontendmentor-article-preview)
+
+### Day 77: July 8, 2020
+
 **Today's Progress**: 
 
-**Thoughts**:   
+**Thoughts**: 
 
-**Link(s) to work**: []()
+**Link(s) to work**: 
