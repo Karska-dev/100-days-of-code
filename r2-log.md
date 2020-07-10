@@ -637,6 +637,30 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 
 ### Day 77: July 8, 2020
 
+**Today's Progress**: Mobile first for challenge from frontmentor.io(article preview)
+
+**Thoughts**: 
+
+**Link(s) to work**: [Article preview challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT), [My repo for article preview challenge](https://github.com/Karska-dev/frontendmentor-article-preview)
+
+### Day 78: July 9, 2020
+
+**Today's Progress**: Mobile first for challenge from frontmentor.io(article preview)
+
+**Thoughts**: 
+
+**Link(s) to work**: [Article preview challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT), [My repo for article preview challenge](https://github.com/Karska-dev/frontendmentor-article-preview)
+
+### Day 79: July 10, 2020
+
+**Today's Progress**: Desktop design for challenge from frontmentor.io(article preview)
+
+**Thoughts**: 
+
+**Link(s) to work**: [Article preview challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT), [My repo for article preview challenge](https://github.com/Karska-dev/frontendmentor-article-preview)
+
+### Day 80: July 11, 2020
+
 **Today's Progress**: 
 
 **Thoughts**: 
