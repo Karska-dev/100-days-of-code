@@ -661,8 +661,32 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 
 ### Day 80: July 11, 2020
 
+**Today's Progress**: Desktop design for challenge from frontmentor.io(article preview)
+
+**Thoughts**: 
+
+**Link(s) to work**: [Article preview challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT), [My repo for article preview challenge](https://github.com/Karska-dev/frontendmentor-article-preview)
+
+### Day 81: July 12, 2020
+
+**Today's Progress**: Attempt to make a button with svg-mask
+
+**Thoughts**: 
+
+**Link(s) to work**: [Article preview challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT), [My repo for article preview challenge](https://github.com/Karska-dev/frontendmentor-article-preview)
+
+### Day 82: July 13, 2020
+
+**Today's Progress**: Finished with article preview challenge
+
+**Thoughts**: 
+
+**Link(s) to work**: [Article preview challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT), [My repo for article preview challenge](https://github.com/Karska-dev/frontendmentor-article-preview)
+
+### Day 83: July 14, 2020
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**: []()
