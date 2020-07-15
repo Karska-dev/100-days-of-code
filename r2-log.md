@@ -685,8 +685,20 @@ and this: char(ASCII('f') + ASCII('m') - ASCII(sex))
 
 ### Day 83: July 14, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Finished part 2 and 3 and start part 4 of CoderCoder tutorial for building intermediate frontendmaster challenge
 
 **Thoughts**: 
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Build a website from scratch - Frontend Mentor EasyBank landing page
+Coder Coder 4/6
+](https://www.youtube.com/watch?v=y9OVL8D8XGs&list=PLUWqFDiirlsuYscECzks6zIZWr_Cfcx9k&index=4)
+
+### Day 84: July 15, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 4, 5, 6?
+
+**Link(s) to work**: [Build a website from scratch - Frontend Mentor EasyBank landing page
+Coder Coder 4/6
+](https://www.youtube.com/watch?v=y9OVL8D8XGs&list=PLUWqFDiirlsuYscECzks6zIZWr_Cfcx9k&index=4)
