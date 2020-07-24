@@ -695,10 +695,77 @@ Coder Coder 4/6
 
 ### Day 84: July 15, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Finished part 4 and 5 of CoderCoder tutorial for building intermediate frontendmaster challenge
 
-**Thoughts**: 4, 5, 6?
+**Thoughts**: 6 and 7 left
 
 **Link(s) to work**: [Build a website from scratch - Frontend Mentor EasyBank landing page
 Coder Coder 4/6
 ](https://www.youtube.com/watch?v=y9OVL8D8XGs&list=PLUWqFDiirlsuYscECzks6zIZWr_Cfcx9k&index=4)
+
+### Day 85: July 16, 2020
+
+**Today's Progress**: Share button update for frontendmentor challenge, Falling balls dark svg animation for Portfolio
+
+**Thoughts**: 
+
+**Link(s) to work**: [Falling balls dark svg animation CodePen](https://codepen.io/karskaya/pen/wvMYxRx), [Share button svg CodePen](https://codepen.io/karskaya/pen/XWXxEev), [Build a website from scratch - Frontend Mentor EasyBank landing page
+Coder Coder 4/6](https://www.youtube.com/watch?v=y9OVL8D8XGs&list=PLUWqFDiirlsuYscECzks6zIZWr_Cfcx9k&index=4)
+
+### Day 86: July 17, 2020
+
+**Today's Progress**: Falling balls light svg animation for Portfolio, Finished part 6 of CoderCoder tutorial for building intermediate frontendmaster challenge
+
+**Thoughts**: 
+
+**Link(s) to work**: [Falling Balls Animation light CodePen](https://codepen.io/karskaya/pen/jOWeQze), [Build a website from scratch - Frontend Mentor EasyBank landing page Coder Coder 7/6](https://www.youtube.com/watch?v=y9OVL8D8XGs&list=PLUWqFDiirlsuYscECzks6zIZWr_Cfcx9k&index=6)
+
+### DayOff: July 18, 2020
+
+### Day 87: July 19, 2020
+
+**Today's Progress**: Started part 7 of CoderCoder tutorial for building intermediate frontendmaster challenge
+
+**Thoughts**: 
+
+**Link(s) to work**: [Build a website from scratch - Frontend Mentor EasyBank landing page Coder Coder 7/7](https://www.youtube.com/watch?v=y9OVL8D8XGs&list=PLUWqFDiirlsuYscECzks6zIZWr_Cfcx9k&index=7)
+
+### Day 88: July 20, 2020
+
+**Today's Progress**: Finished part 7 of CoderCoder tutorial for building intermediate frontendmaster challenge
+
+**Thoughts**: 
+
+**Link(s) to work**: [Repo of Frontend Mentor EasyBank landing page Coder Coder](https://github.com/Karska-dev/frontendmentor-easybank)
+
+### Day 89: July 21, 2020
+
+**Today's Progress**: Fix issues for article preview frontend mentor project, share button one more variant
+
+**Thoughts**: 
+
+**Link(s) to work**: [article preview frontend mentor project](https://github.com/Karska-dev/frontendmentor-article-preview), [Share button CodePen](https://codepen.io/karskaya/pen/pogGgWG)
+
+### Day 90: July 22, 2020
+
+**Today's Progress**: Fixed some issues in Frontend Mentor EasyBank landing page Coder Coder and started with animated menu button
+
+**Thoughts**: 
+
+**Link(s) to work**: [Repo of Frontend Mentor EasyBank landing page Coder Coder](https://github.com/Karska-dev/frontendmentor-easybank), [CodePen Animated Menu](https://codepen.io/karskaya/pen/gOPqyLm)
+
+### Day 91: July 23, 2020
+
+**Today's Progress**: Animated menu button finished.
+
+**Thoughts**: Need to add some links
+
+**Link(s) to work**: [CodePen Animated Menu](https://codepen.io/karskaya/pen/gOPqyLm)
+
+### Day 92: July 24, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
