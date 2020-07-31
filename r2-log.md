@@ -764,8 +764,56 @@ Coder Coder 4/6](https://www.youtube.com/watch?v=y9OVL8D8XGs&list=PLUWqFDiirlsuY
 
 ### Day 92: July 24, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Continue working on my portfolio site: work with codePen dark falling ball background
 
 **Thoughts**: 
 
-**Link(s) to work**: []()
+**Link(s) to work**: [dark falling ball background](https://codepen.io/karskaya/pen/dyGrBbe)
+
+### Day 93: July 25, 2020
+
+**Today's Progress**: Continue working on my portfolio site: title animalion for menu codePen
+
+**Thoughts**: 
+
+**Link(s) to work**: [text animation](https://codepen.io/karskaya/pen/jOWJQxy)
+
+### Day 94: July 26, 2020
+
+**Today's Progress**: Continue working on my portfolio site: trying to integrate background svg, learn how to scale SVG 
+
+**Thoughts**: 
+
+**Link(s) to work**: [How to scale SVG](https://css-tricks.com/scale-svg/)
+
+### Day 95: July 27, 2020
+
+**Today's Progress**: Continue working on my portfolio site. Projects and Contact sections was added.
+
+**Thoughts**: 
+
+**Link(s) to work**: [my personal web-page](https://github.com/Karska-dev/karska-dev.github.io)
+
+### Day 96: July 28, 2020
+
+**Today's Progress**: Continue working on my portfolio site: contact icons added, header, svg-background for intro.
+
+**Thoughts**: 
+
+**Link(s) to work**: [my personal web-page](https://github.com/Karska-dev/karska-dev.github.io)
+
+### Day 97: July 29, 2020
+
+**Today's Progress**: Continue working on my portfolio site: styles for header and overlay menu.
+
+**Thoughts**: 
+
+**Link(s) to work**: [my personal web-page](https://github.com/Karska-dev/karska-dev.github.io)
+
+### Day 98: July 30, 2020
+
+**Today's Progress**: Continue working on my portfolio site: create in codepen toggle button.
+
+**Thoughts**: 
+
+**Link(s) to work**: [my personal web-page](https://github.com/Karska-dev/karska-dev.github.io), [Bouncy toggle button](https://codepen.io/karskaya/pen/NWxZoLY)
