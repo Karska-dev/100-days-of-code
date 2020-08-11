@@ -817,3 +817,21 @@ Coder Coder 4/6](https://www.youtube.com/watch?v=y9OVL8D8XGs&list=PLUWqFDiirlsuY
 **Thoughts**: 
 
 **Link(s) to work**: [my personal web-page](https://github.com/Karska-dev/karska-dev.github.io), [Bouncy toggle button](https://codepen.io/karskaya/pen/NWxZoLY)
+
+### Day 99: July 31, 2020
+
+**Today's Progress**: Continue working on my portfolio site: work on project section, crating tiles.
+
+**Thoughts**: 
+
+**Link(s) to work**: [my personal web-page](https://github.com/Karska-dev/karska-dev.github.io)
+
+### Dayoff: August 1, 2020
+
+### Day 100: August 2, 2020
+
+**Today's Progress**: Continue working on my portfolio site: add menu and light style. 90% of Mobile done!
+
+**Thoughts**: 
+
+**Link(s) to work**: [my personal web-page](https://github.com/Karska-dev/karska-dev.github.io)
